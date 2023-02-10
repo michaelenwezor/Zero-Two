@@ -10,7 +10,12 @@
 <br/>
 A Fully Modular, fast and Efficient Bot. <br>
 <br/>
-    
+   
+      
+##  This bot is Out-Dated ! use our latest bot  [Atlas MD](https://github.com/FantoX001/Atlas-MD) to use mind-blowing features including `Economy` and `RPG`.
+  
+</br></br>
+</br> 
     
 <br/>   
 Deply Zero Two form Heroku
